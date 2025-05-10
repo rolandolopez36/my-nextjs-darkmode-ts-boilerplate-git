@@ -1,0 +1,25 @@
+{
+  "name": "my-nextjs-darkmode-ts-boilerplate",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/node": ">=18.0.0",
+    "@types/react": "^18.0.28",
+    "autoprefixer": "^10.4.14",
+    "eslint": "8.x",
+    "eslint-config-next": "13.x",
+    "ethers": "^6.13.5",
+    "next": "13.x",
+    "postcss": "^8.4.21",
+    "react": "18.x",
+    "react-dom": "18.x",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^4.8.4"
+  }
+}
